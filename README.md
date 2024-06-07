@@ -9,6 +9,4 @@ This is a body mass index calculator. Based on the user's weight and height, it 
 - Programmatic UI
 - Multi-screen
   
-
-https://github.com/MaksimIsAvailable/BMICalculate/assets/162634880/99b564b9-fa5b-4bb4-b06c-c2af876d455d
-
+![Untitled](https://github.com/MaksimIsAvailable/BMICalculate/assets/162634880/9090fb28-eb21-4d3f-a4c4-c708c9a9f51a)
